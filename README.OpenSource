@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "public",
+        "License": "Apache-2.0",
+        "License File": "LICENSE",
+        "Version Number": "6624e1367309630b2f6df3cf93a5f864e89973f9",
+        "Owner": "liujixin@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/cast_core/public@2c1308094df97d5fcc84d6c40405c6ecb807301b",
+        "Description": "第三方软件cast_core"
+    }
+]
